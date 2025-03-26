@@ -9,6 +9,7 @@ I've coined the Anonymous mode. When a user accesses a Google element through th
 # Deanonymizing Comments/Suggestions
 
 When leaving a comment/suggestion while in anonymous mode and not signed into a Google account (you can tell you're not signed in by there being a blue sign-in button in the top right), your comment's author is listed as "Anonymous" as you would expect. The issue comes up when you're signed into your Google account because if you're signed in and you're in anonymous mode when commenting, the author of the comment would be listed as your Google account.
+
 ![Pasted image 20250326004352 1](https://github.com/user-attachments/assets/7e8c0948-3736-4c4e-9a53-92c7ee9e26b0)
 
 # Security Concern
